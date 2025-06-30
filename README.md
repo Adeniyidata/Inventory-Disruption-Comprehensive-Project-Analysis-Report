@@ -1,4 +1,4 @@
-Inventory-Disruption-Comprehensive-Project-Analysis-Report
+**Inventory-Disruption-Comprehensive-Project-Analysis-Report**
 Project Title: Inventory Disruption Analysis Dashboard– Power Query & Excel Project
 Client: Inventory Manager
  Tools, Technologies& Techniques Used:
