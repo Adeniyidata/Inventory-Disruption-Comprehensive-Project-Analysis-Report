@@ -1,12 +1,11 @@
-**Inventory-Disruption-Comprehensive-Project-Analysis-Report**
-Project Title: Inventory Disruption Analysis Dashboard– Power Query & Excel Project
+Project Title : Inventory-Disruption-Comprehensive-Project-Analysis-Report (Power Query & Excel Project)
 Client: Inventory Manager
  Tools, Technologies& Techniques Used:
 •	Excel, Power Query ETL – Data cleaning (Extraction, transformation, and Loading) .
 •	DAX (Excel) – Custom customs & measures.
 •	Excel– Data visualization
 
-Project Overview
+**Project Overview**
  This project investigates patterns of inventory instability—specifically manual adjustments              
  and stockouts—to support inventory managers in optimizing operations, improving stock           
  control and enhancing supplier reliability. I conducted using Power Query and Excel Pivot       
