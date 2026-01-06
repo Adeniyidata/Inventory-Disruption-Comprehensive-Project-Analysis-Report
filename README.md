@@ -1,6 +1,6 @@
 **Project Title** : Inventory-Disruption-Comprehensive-Project-Analysis-Report (Power Query & Excel Project)
 **Client**: Inventory Manager
-**** Tools, Technologies& Techniques Used****:
+ **Tools, Technologies& Techniques Used**
 •	Excel, Power Query ETL – Data cleaning (Extraction, transformation, and Loading) .
 •	DAX (Excel) – Custom customs & measures.
 •	Excel– Data visualization
