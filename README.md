@@ -11,7 +11,7 @@
  control and enhancing supplier reliability. I conducted using Power Query and Excel Pivot       
   Tables, it transforms raw supply chain datasets into actionable insights.
       
-****  Problem Statement****
+**Problem Statement**
   “We suspect that some products are frequently going out of stock or being adjusted             
    manually, but we don’t know which ones or why.”
 ** Business Goal**
@@ -37,7 +37,7 @@ o	Stockouts share by supplier Name
 o	Inventory Disruption by Category
 o	Inventory Manual Adjustment by supplier Name
 
-**  Datasets Used**
+**Datasets Used**
 •	inventory_logs.csv – Time-stamped inventory change records
 •	products.csv – Product metadata including category, brand, and stock quantity
 •	suppliers.csv – Supplier info per product
@@ -82,14 +82,14 @@ Per product, giving a clear disruption score
 •	 A few suppliers dominated like Washington Thomas & Sons and Anderson-Wagner Group had excessive manual adjustments both stockouts and adjustments, indicating potential upstream issues
 •	Some products had both high adjustments and poor review ratings — showing both operational and customer dissatisfaction
 
-10.	Patterns in Stockouts and Manual Adjustments:
+10.	**Patterns in Stockouts and Manual Adjustments**
 •	 Li Evans Yarn Skein and Nelson Doll Score 210 also appeared in both top 5 manual adjustments and stockouts, indicating repeated disruptions in stock handling or forecasting.
 •	SKUs experience frequent stockouts (e.g., Anderson-Wagner Organizer, Li Evans Yarn Skeim, Nelson Doll score 210), suggesting they are either understocked or over-demanded. These disruptions may indicate poor demand forecasting or inadequate reorder levels.
 •	Suppliers like Anderson-Wagner Group (22%) and Washington Thomas & Sons (37%) account for the largest share of manual inventory corrections.
 This implies potential supply chain inconsistencies or data entry errors tied to specific vendors.
 
 
-11.**	Recommendations**
+11.	**Recommendations**
 •	Implement minimum stock thresholds with alerts for high-risk products
 •	Audit and retrain warehouse staff on stock entry SOPs
 •	Improve supplier accountability and performance tracking
@@ -98,7 +98,7 @@ This implies potential supply chain inconsistencies or data entry errors tied to
 •	Set minimum stock thresholds for disrupted products
 •	Audit Top 5 SKUs for stock inaccuracies
 
-12.	** Conclusion**
+12.	 **Conclusion**
 This project showcases how everyday tools like Excel can deliver inventory intelligence when combined with structured data transformation techniques.
 It also helped the inventory team spot recurring issues but also laid the groundwork for smarter planning and supplier management.
 
